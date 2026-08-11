@@ -1,3 +1,3 @@
 #/! usr/bin/bansh 
 
-ip -br adress
+ip -br a
