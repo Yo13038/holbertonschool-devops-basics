@@ -1,3 +1,3 @@
-#/! usr/bin/ env bansh
+#/! usr/bin/ env bash
 
 ip -br a
